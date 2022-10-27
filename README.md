@@ -6,6 +6,10 @@ Get: Gets the list of all registered clients
 
 ![image](https://user-images.githubusercontent.com/62443757/198412149-a2eacffe-b337-4db2-a405-a9af8d0a01af.png)
 
+Get: Get a specific client by its ID
+
+![image](https://user-images.githubusercontent.com/62443757/198412730-f8f9273f-a6cf-4be1-9bba-aa760c2e733c.png)
+
 Post: Save a new client by receiving a client model
 
 ![image](https://user-images.githubusercontent.com/62443757/198412305-552b1b65-c45b-4876-9965-96dec2be5b2f.png)
